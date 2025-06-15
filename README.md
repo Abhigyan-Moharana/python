@@ -21,4 +21,17 @@ Make sure you have Python installed.
 ```bash
 git clone https://github.com/Abhigyan-warlord/to-do-list.git
 cd to-do-list
-python todo.py
+python todo.py 
+```
+---
+
+## Example Output
+
+--- To-Do List ---
+1. View Tasks
+2. Add Task
+3. Delete Task
+4. Exit
+Enter choice :
+
+---
